@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="instructions">The following questions are set to test your knowledge of
+        physics please answer every question to the best of your ability</string>
+    <string name="question_one">The working principle of a washing machine is </string>
+    <string name="option_one_a">reverse osmosis</string>
+    <string name="option_one_b">diffusion</string>
+    <string name="option_one_c">centrifugation</string> <!--right answer-->
+    <string name="option_one_d">dialysis</string>
+
+    <string name="question_two">Nuclear sizes are expressed in a unit named </string>
+    <string name="option_two_a">Fermi</string>  <!--right answer-->
+    <string name="option_two_b">Angstrom</string>
+    <string name="option_two_c">Newton</string>
+    <string name="option_two_d">Tesla</string>
+
+    <string name="question_three">The speed of light would be minimum while passing through </string>
+    <string name="option_three_a">water</string>
+    <string name="option_three_b">vaccum</string>
+    <string name="option_three_c">air</string>
+    <string name="option_three_d">glass</string> <!--right answer-->
+
+    <string name="question_four">Which of the following is not a vector quantity </string>
+    <string name="option_four_a">speed</string> <!--right answer-->
+    <string name="option_four_b">velocity</string>
+    <string name="option_four_c">torque</string>
+    <string name="option_four_d">displacement</string>
+
+    <string name="question_five">The most suitable unit for expressing nuclear radius is </string>
+    <string name="option_five_a">micro</string>
+    <string name="option_five_b">nanometre</string>
+    <string name="option_five_c">fermi</string> <!--right answer-->
+    <string name="option_five_d">angstrom</string>
+
+    <string name="question_six">An air bubble in water would act like a </string>
+    <string name="option_six_a">convex lens</string>
+    <string name="option_six_b">convex mirror</string>
+    <string name="option_six_c">concave lens</string> <!--right answer-->
+    <string name="option_six_d">concave mirror</string>
+
+    <string name="question_seven">Which of the following is not a unit of time</string>
+    <string name="option_seven_a">Parallactic second </string> <!--right answer-->
+    <string name="option_seven_b">Micro second </string>
+    <string name="option_seven_c">Leap year</string>
+    <string name="option_seven_d">Solar day</string>
+
+    <string name="question_eight">Temperature can be expressed as derived quantity in terms of any of the following</string>
+    <string name="option_eight_a">length and mass</string>
+    <string name="option_eight_b">mass and time</string>
+    <string name="option_eight_c">length, mass and time</string>
+    <string name="option_eight_d">in terms of none</string> <!--right answer-->
+
+    <string name="question_nine">A solid ball of metal has a spherical cavity inside it.
+        When the ball is heated the volume of the ball would</string>
+    <string name="option_nine_a">increase</string> <!--right answer-->
+    <string name="option_nine_b">decrease</string>
+    <string name="option_nine_c">remain unaffected</string>
+    <string name="option_nine_d">have its shape changed</string>
+
+    <string name="question_ten">Rain drops acquire spherical shapes due to </string>
+    <string name="option_ten_a">viscosity</string>
+    <string name="option_ten_b">surface tension</string> <!--right answer-->
+    <string name="option_ten_c">friction</string>
+    <string name="option_ten_d">elasticity</string>
+    <string name="submit">submit</string>
+</resources>
